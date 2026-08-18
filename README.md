@@ -1,4 +1,5 @@
-# VIRAT FYTER — Number Validation Website
+# VIRAT KING DEVELOPER ..
+— Number Validation Website
 
 This project turns the supplied single-file Flask application into a structured website with a separate **HTML/CSS/JavaScript frontend**, a Python API, a database audit model, and Render deployment configuration. The original terminal-style frontend direction is preserved, while the backend uses a proper international-number parser instead of manual prefix concatenation.
 
